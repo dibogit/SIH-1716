@@ -1,0 +1,15 @@
+/app.py
+/templates
+    /index.html
+/static
+    /css
+        /styles.css
+    /js
+        /script.js
+/ISL_classifier.ipynb
+/dataset_key_point_generation.py
+/isl_detection.py
+/keypoint.csv
+/model.h5
+/requirements.txt
+/.gitignore
