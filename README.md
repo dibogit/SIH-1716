@@ -14,4 +14,5 @@ To run this project :
 - Numpy 
  
  for running program:
+ ```
  python isl_detection.py
