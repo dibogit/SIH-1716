@@ -13,7 +13,7 @@ This project is a web-based application that translates Indian Sign Language (IS
 - [Technologies Used](#technologies-used)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
