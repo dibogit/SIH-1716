@@ -6,7 +6,7 @@ This project is aimed at detecting and recognizing Indian Sign Language (ISL) ge
 
  Requirements
 
-To run this project:
+To run this project :
 
 - Python 3.6 
 - Mediapipe 
